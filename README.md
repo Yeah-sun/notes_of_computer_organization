@@ -1,0 +1,2 @@
+# notes_of_computer_organization
+本人关于计算机organization的笔记
